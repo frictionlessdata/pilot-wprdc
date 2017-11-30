@@ -1,0 +1,31 @@
+221 datasets with tabular resources
+626 tabular resources
+466 resources - validation success
+156 resources - validation failure
+4 resources - validation error
+
+Formats breakdown (validation passed):
+* CSV: 443
+* XLSX: 21
+* XLS: 2
+
+Formats breakdown (validation failed or errored):
+* CSV: 64
+* XLSX: 57
+* XLS: 39
+
+
+Errors breakdown:
+* blank-row: 19654
+* duplicate-row: 810
+* blank-header: 299
+* duplicate-header: 270
+* source-error: 30
+* extra-value: 11
+* format-error: 9
+* http-error: 2
+* missing-value: 1
+
+
+CSV Report stored in validation_errors_report_full.csv
+
